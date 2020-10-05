@@ -432,7 +432,7 @@ header nav #link a:hover {
     float: left;
     width: 60%;
     height: 100%;
-    background: url("../img/me2.jpg") no-repeat center/cover;
+    background: url("../img/me3.jpg") no-repeat center/cover;
     background-position: 10% center;
     background-attachment: fixed;
   }
@@ -466,7 +466,7 @@ header nav #link a:hover {
     float: left;
     width: 40%;
     height: 100%;
-    background: url("../img/me2.jpg") no-repeat left/cover !important;
+    background: url("../img/me3.jpg") no-repeat left/cover !important;
     background-attachment: fixed;
   }
   #ALL .row, #VUE .row, #JQUERY .row, #NODE .row, #CSS .row, #OTHER .row {
@@ -514,7 +514,7 @@ header nav #link a:hover {
     float: left;
     width: 40%;
     height: 100%;
-    background: url("../img/me2.jpg") no-repeat left/cover !important;
+    background: url("../img/me3.jpg") no-repeat left/cover !important;
     background-attachment: fixed;
   }
   #About, #Skill {
